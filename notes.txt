@@ -1,0 +1,130 @@
+1) Question
+OUTPUT
+(50) ['Maldives', 'Pakistan', 'Malaysia', 'Uzbekistan', 'Singapore', 'Qatar', 'Kazakhstan', 'Bahrain', 'India',
+'Macau', 'Syria', 'Kyrgyzstan', 'Palestine', 'Timor-Leste', 'Taiwan', 'South Korea', 'Iraq', 'Cambodia',
+'Sri Lanka', 'Israel', 'Tajikistan', 'Azerbaijan', 'Georgia', 'China', 'Thailand', 'Indonesia', 'Turkmenistan',
+'Turkey', 'Iran', 'Lebanon', 'Philippines', 'Kuwait', 'Oman', 'Afghanistan', 'Armenia', 'Bangladesh', 'Laos',
+'Nepal', 'Myanmar', 'United Arab Emirates', 'Bhutan', 'Jordan', 'Vietnam', 'Brunei', 'Japan', 'Hong Kong',
+'Saudi Arabia', 'North Korea', 'Mongolia', 'Yemen']
+
+2) Question
+OUTPUT
+(62) ['Aruba : 106766', 'Wallis and Futuna : 11750', 'Åland Islands : 29458', 'Pitcairn Islands : 56',
+'Seychelles : 98462', 'French Southern and Antarctic Lands : 400', 'Christmas Island : 2072',
+'Saint Martin : 38659', 'Heard Island and McDonald Islands : 0', 'Antarctica : 1000', 'Greenland : 56367',
+'British Indian Ocean Territory : 3000', 'Saint Lucia : 183629', 'Niue : 1470', 'Saint Barthélemy : 4255',
+'Grenada : 112519', 'Isle of Man : 85032', 'Curaçao : 155014', 'Dominica : 71991', 'Faroe Islands : 48865',
+'Montserrat : 4922', 'Cook Islands : 18100', 'Bermuda : 63903', 'San Marino : 33938',
+'Cayman Islands : 65720', 'Cocos (Keeling) Islands : 544', 'United States Virgin Islands : 106290',
+'Norfolk Island : 2302', 'Nauru : 10834', 'Bouvet Island : 0', 'Micronesia : 115021', 
+'American Samoa : 55197', 'Anguilla : 13452', 'Marshall Islands : 59194', 'Kiribati : 119446', 
+'Northern Mariana Islands : 57557', 'Guam : 168783', 'Gibraltar : 33691', 'Vatican City : 451',
+'Jersey : 100800', 'Tuvalu : 11792', 'Saint Helena, Ascension and Tristan da Cunha : 53192',
+'Samoa : 198410', 'Guernsey : 62999', 'Tonga : 105697', 'Saint Kitts and Nevis : 53192',
+'Falkland Islands : 2563', 'Palau : 18092', 'Turks and Caicos Islands : 38718',
+'British Virgin Islands : 30237', 'Liechtenstein : 38137', 'Andorra : 77265', 'Tokelau : 1411',
+'Sint Maarten : 40812', 'United States Minor Outlying Islands : 300', 'Antigua and Barbuda : 97928',
+'Saint Pierre and Miquelon : 6069', 'Saint Vincent and the Grenadines : 110947', 
+'South Georgia : 30', 'Caribbean Netherlands : 25987', 'Monaco : 39244',
+'Svalbard and Jan Mayen : 2562']
+
+3) Question
+OUTPUT
+Mauritania : Nouakchott : 🇲🇷
+Aruba : Oranjestad : 🇦🇼
+Argentina : Buenos Aires : 🇦🇷
+Sweden : Stockholm : 🇸🇪
+Maldives : Malé : 🇲🇻
+Mexico : Mexico City : 🇲🇽
+New Zealand : Wellington : 🇳🇿
+Ecuador : Quito : 🇪🇨
+Wallis and Futuna : Mata-Utu : 🇼🇫
+Åland Islands : Mariehamn : 🇦🇽
+Montenegro : Podgorica : 🇲🇪
+Pakistan : Islamabad : 🇵🇰
+Pitcairn Islands : Adamstown : 🇵🇳
+Zambia : Lusaka : 🇿🇲
+Seychelles : Victoria : 🇸🇨
+Malaysia : Kuala Lumpur : 🇲🇾
+Norway : Oslo : 🇳🇴
+Uzbekistan : Tashkent : 🇺🇿
+Vanuatu : Port Vila : 🇻🇺
+French Southern and Antarctic Lands : Port-aux-Français : 🇹🇫
+Christmas Island : Flying Fish Cove : 🇨🇽
+Singapore : Singapore : 🇸🇬
+Suriname : Paramaribo : 🇸🇷
+Western Sahara : El Aaiún : 🇪🇭
+Saint Martin : Marigot : 🇲🇫
+Costa Rica : San José : 🇨🇷
+Heard Island and McDonald Islands : undefined : 🇭🇲
+Ireland : Dublin : 🇮🇪
+Antarctica : undefined : 🇦🇶
+Australia : Canberra : 🇦🇺
+Libya : Tripoli : 🇱🇾
+Qatar : Doha : 🇶🇦
+Greenland : Nuuk : 🇬🇱
+Mauritius : Port Louis : 🇲🇺
+Kazakhstan : Nur-Sultan : 🇰🇿
+British Indian Ocean Territory : Diego Garcia : 🇮🇴
+Albania : Tirana : 🇦🇱
+Bahrain : Manama : 🇧🇭
+Papua New Guinea : Port Moresby : 🇵🇬
+Burundi : Gitega : 🇧🇮
+India : New Delhi : 🇮🇳
+Uruguay : Montevideo : 🇺🇾
+Saint Lucia : Castries : 🇱🇨
+Barbados : Bridgetown : 🇧🇧
+New Caledonia : Nouméa : 🇳🇨
+Latvia : Riga : 🇱🇻
+Estonia : Tallinn : 🇪🇪
+Niue : Alofi : 🇳🇺
+Saint Barthélemy : Gustavia : 🇧🇱
+Puerto Rico : San Juan : 🇵🇷
+Grenada : St. George's : 🇬🇩
+Macau : undefined : 🇲🇴
+Cyprus : Nicosia : 🇨🇾
+Isle of Man : Douglas : 🇮🇲
+Greece : Athens : 🇬🇷
+Syria : Damascus : 🇸🇾
+Lithuania : Vilnius : 🇱🇹
+Curaçao : Willemstad : 🇨🇼
+Dominica : Roseau : 🇩🇲
+Niger : Niamey : 🇳🇪
+Kyrgyzstan : Bishkek : 🇰🇬
+Trinidad and Tobago : Port of Spain : 🇹🇹
+Togo : Lomé : 🇹🇬
+Palestine : Ramallah,Jerusalem : 🇵🇸
+Madagascar : Antananarivo : 🇲🇬
+Croatia : Zagreb : 🇭🇷
+Faroe Islands : Tórshavn : 🇫🇴
+Haiti : Port-au-Prince : 🇭🇹
+Montserrat : Plymouth : 🇲🇸
+Cook Islands : Avarua : 🇨🇰
+Timor-Leste : Dili : 🇹🇱
+Martinique : Fort-de-France : 🇲🇶
+
+
+4) Question
+OUTPUT
+7777721563
+
+5) Question
+OUTPUT
+American Samoa
+Bonaire, Sint Eustatius and Saba
+British Indian Ocean Territory
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Cambodia
+Ecuador
+El Salvador
+Guam
+Marshall Islands
+Micronesia (Federated States of)
+Northern Mariana Islands
+Palau
+Panama
+Puerto Rico
+Timor-Leste
+Turks and Caicos Islands
+United States of America
